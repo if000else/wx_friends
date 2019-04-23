@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.doubanio.com/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+itchat = "*"
+pyecharts = "==0.5.11"
+pyecharts-snapshot = "==0.1.10"
+echarts-themes-pypkg = "*"
+echarts-countries-pypkg = "*"
+echarts-china-provinces-pypkg = "*"
+echarts-china-cities-pypkg = "*"
+baidu-aip = "*"
+photomosaic = "*"
+pillow = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.6"
